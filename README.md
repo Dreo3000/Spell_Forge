@@ -13,6 +13,7 @@ Doom projectiles:
 		* Rocket
 		* Plasma Ball
 		* BFG Ball
+		
 	* Monster projectiles
 		* Imp's Fire Ball
 		* Baron's Fire Ball
