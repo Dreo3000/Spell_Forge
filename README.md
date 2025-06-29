@@ -10,12 +10,12 @@ A road map of Spell Forge:
 
 Doom projectiles:
 
-	* Player projectiles:
-		* Rocket
-		* Plasma Ball
-		* BFG Ball
+* Player projectiles:
+	* Rocket
+	* Plasma Ball
+	* BFG Ball
 		
-	* Monster projectiles:
-		* Imp's Fire Ball
-		* Baron's Fire Ball
-		* Cacodemon's Ball
+* Monster projectiles:
+	* Imp's Fire Ball
+	* Baron's Fire Ball
+	* Cacodemon's Ball
